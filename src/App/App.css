@@ -1,3 +1,17 @@
+/* Include the padding and border in an element's total width and height */
+* {
+  box-sizing: border-box;
+}
+
 .App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+  justify-content: space-between;
+}
+
+.footerText {
+  font-size: 1.2rem;
   text-align: center;
 }
