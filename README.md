@@ -8,10 +8,10 @@ Manage all your tasks with ease.
 
 ## TODO
 
-[ ] Change the ui.
-[ ] multiple content in todos
-[ ] Add time/reminder option
-[ ] view all the task with date/time on calender.
+- [ ] Change the ui.
+- [ ] multiple content in todos
+- [ ] Add time/reminder option
+- [ ] view all the task with date/time on calender.
 
 ## What i learnt
 
